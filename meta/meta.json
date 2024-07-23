@@ -1,56 +1,56 @@
 {
-   "schemaVersion":1,
-   "hotfixesFormat":null,
-   "versions":[
-      {
-         "id":"1.0.0",
-         "releasedAt":1721609580000,
-         "promotions":{
-            "downloads":{
-               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/1.0.0"
-            }
-         },
-         "updateType":"major"
-      },
-      {
-         "id":"2.0.0",
-         "releasedAt":1721715600000,
-         "promotions":{
-            "downloads":{
-               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/2.0.0"
-            }
-         },
-         "updateType":"major"
-      },
-      {
-         "id":"2.1.0",
-         "releasedAt":1721717640000,
-         "promotions":{
-            "downloads":{
-               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/2.1.0"
-            }
-         },
-         "updateType":"major"
-      },
-      {
-         "id":"3.0.0",
-         "releasedAt":1721722200000,
-         "promotions":{
-            "downloads":{
-               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/3.0.0"
-            }
-         },
-         "updateType":"major"
-      },
-      {
-         "id":"3.0.1",
-         "releasedAt":1721728800000,
-         "promotions":{
-            "downloads":{
-               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/3.0.1"
-            }
-         },
-         "updateType":"minor"
-      }
-   ]
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "1.0.0",
+            "releasedAt": 1721609580000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/real-homies-modpack/version/1.0.0"
+                }
+            },
+            "updateType": "major"
+        },
+        {
+            "id": "2.0.0",
+            "releasedAt": 1721715600000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/real-homies-modpack/version/2.0.0"
+                }
+            },
+            "updateType": "major"
+        },
+        {
+            "id": "2.1.0",
+            "releasedAt": 1721717640000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/real-homies-modpack/version/2.1.0"
+                }
+            },
+            "updateType": "major"
+        },
+        {
+            "id": "3.0.0",
+            "releasedAt": 1721722200000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/real-homies-modpack/version/3.0.0"
+                }
+            },
+            "updateType": "major"
+        },
+        {
+            "id": "3.0.1",
+            "releasedAt": 1721728800000,
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/real-homies-modpack/version/3.0.1"
+                }
+            },
+            "updateType": "minor"
+        }
+    ]
 }
