@@ -24,10 +24,20 @@
       },
       {
          "id":"2.1.0",
-         "releasedAt":1721718000000,
+         "releasedAt":1721717640000,
          "promotions":{
             "downloads":{
                "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/2.1.0"
+            }
+         },
+         "updateType":"major"
+      },
+      {
+         "id":"2.1.1",
+         "releasedAt":1721722200000,
+         "promotions":{
+            "downloads":{
+               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/2.1.1"
             }
          },
          "updateType":"major"
