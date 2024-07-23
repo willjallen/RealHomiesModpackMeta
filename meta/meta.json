@@ -42,5 +42,15 @@
          },
          "updateType":"major"
       }
+      {
+         "id":"3.0.1",
+         "releasedAt":1721728800000,
+         "promotions":{
+            "downloads":{
+               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/3.0.1"
+            }
+         },
+         "updateType":"minor"
+      }
    ]
 }
