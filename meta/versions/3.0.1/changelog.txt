@@ -1,0 +1,4 @@
+- Tweaked some mod configuration settings for better GUI experience
+- Disabled tooltips on inventory profiles
+- Disabled mob HP display in jade
+- Reduced the size of the jade display
