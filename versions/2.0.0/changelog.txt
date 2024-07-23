@@ -1,0 +1,9 @@
+- Added BSL shader by default
+- Added ImmediatelyFast mod, a clientside GUI optimization mod. Expect 40% more FPS
+- Added CC: Tweaked mod
+- Added InventoryProfiles mod, adds sorting buttons to inventories
+- Added memoryleakfix mod, fixes various memory leaks on both the client and server
+- Added fastminecart mod, doubles the speed of minecarts
+- Added supporting libraries for above mods.
+
+- Fixed sleep mod to change to day when at least 50% of the players are sleeping
