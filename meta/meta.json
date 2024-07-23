@@ -33,11 +33,11 @@
          "updateType":"major"
       },
       {
-         "id":"2.1.1",
+         "id":"3.0.0",
          "releasedAt":1721722200000,
          "promotions":{
             "downloads":{
-               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/2.1.1"
+               "modrinth":"https://modrinth.com/modpack/real-homies-modpack/version/3.0.0"
             }
          },
          "updateType":"major"
