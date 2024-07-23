@@ -1,0 +1,15 @@
+- Added Comforts mod: Adds sleeping bags and hammocks. Hammocks can be used to turn night to day
+- Added Adorn mod: A decoration and furniture mod
+- Added Shulkerbox Box Tooltip mod: Adds a tooltip which displays the contents of a shulkerbox without having to open it
+- Added Enchantment Descriptions mod: Displays a small text blurb detailing what an enchantment actually does
+- Added Do a Barrel Roll mod: A more fun elytra flight experience
+- Added LambDynamicLights mod: Items that should produce light always produce light
+- Added Bottle Your Xp mod: Allows the creation of experience bottles (bottles o' enchanting) from your own gathered xp
+- Added Universal Shops mod: Create shops to trade items with players. Replaces Tom's Trading Network
+- Added fancylayout mod so the modpack updater button displays correctly in the main menu
+- Added Better Compatibility Checker: Ensures clients have the correct modpack version when connecting to a server
+
+- Configured modpack updater correctly
+  
+- Removed old sleep mod
+- Removed old Tom's Trading Network mod
