@@ -1,0 +1,12 @@
+- Added Redstone Pen mod: Place redstone with the redstone quill on floors and walls. Includes additional redstone items such as gates
+- Added Macaw's Lights and Lamps mod: More lighting options
+- Added Just Enough Items mod: Utility to show usages (U) and recipes (R) in your inventory when hovering over an item
+- Added Items Displayed mod: Adds decorative displays for items
+- Added Coins JE mod: Adds tiers of coins (for trading)
+- Added Locked Chests/Chest Protection mod: Allows you to lock your chests by naming an iron nugget to "key" and shift right clicking a chest
+- Added Nature's Compass mod: An item that allows you to search for a biome's location anywhere in the world and view information about it.
+- Added Stendhal mod: client-side mod offering new and enhanced visual utilities for books, signs, anvil and the in-game chat.
+- Added Dark Paintings mod: Adds a large variety of new paintings to the game.
+- Added Horse Buff: Improve horses by removing stupid stuff and adding useful stuff.
+
+- Removed InvMove mod: Was causing issues with other mod GUIs
